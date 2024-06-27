@@ -13,8 +13,7 @@
                  # Chances of rain (%)
                  # Pressure (hPa)
 
-# first commit in firrst-branch
-# third commit in master
+# first commit in second-branch
 import tkinter as tk
 import requests
 from tkinter import messagebox
